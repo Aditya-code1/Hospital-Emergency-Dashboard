@@ -54,12 +54,11 @@ The objective of this project is to:
 3. Use the filters to explore different insights.
 4. Analyze trends and performance metrics.
 
+## 📊 Dashboard Preview
 
-## 📷 Dashboard Preview
+> Add your dashboard screenshot here.
 
-> Add a screenshot of your dashboard here.
-Example:
-![Hospital Emergency Dashboard] (https://github.com/Aditya-code1/Hospital-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📌 Future Improvements
 
