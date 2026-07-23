@@ -58,7 +58,7 @@ The objective of this project is to:
 
 > Add your dashboard screenshot here.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](https://github.com/Aditya-code1/Hospital-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Dashboard.png)
 
 ## 📌 Future Improvements
 
